@@ -1,0 +1,42 @@
+{
+    "posts": [
+      {
+        "body": "Amazing post coming up from the very first of creativity",
+        "handle_name": "@drake135",
+        "id": 1,
+        "post_img_url": "http://placeimg.com/640/300/any",
+        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "tweet_date": "2020-08-21T12:57:44Z",
+        "userId": 1,
+        "user_img_url": "http://placeimg.com/45/45/any",
+        "user_name": "drake",
+        "actions":{
+            "likes":5,
+            "comments":24,
+            "retweet":78
+        }
+      },
+      {
+        "body": "quia et suscipit↵suscipit recusandae consequuntur expedita et cum↵reprehenderit molestiae ut ut quas totam↵nostrum rerum est autem sunt rem eveniet architecto",
+        "handle_name": "@braie23",
+        "id": 2,
+        "post_img_url": "http://placeimg.com/640/300/any",
+        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "tweet_date": "2020-08-21T12:57:44Z",
+        "userId": 2,
+        "user_img_url": "http://placeimg.com/45/45/any",
+        "user_name": "barie",
+        "actions":{
+            "likes":5,
+            "comments":24,
+            "retweet":78
+        }
+      }
+    ],
+    "profile": {
+      "userId": 1,
+      "user_img_url": "http://placeimg.com/45/45/any",
+      "user_name": "drake"
+
+    }
+  }
